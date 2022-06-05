@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Ezar Ibrahim
 - 👀 I’m interested in Data Science and UI/UX Design
-- 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data 
 - 📫 How to reach me on instagram @lostfreque
 
 <!---
